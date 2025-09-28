@@ -23,16 +23,6 @@ cd Digital-Drawing-canvas
 
 pip install opencv-python mediapipe numpy
 ```
-
----
-
-## 🚀 Usage
-
-Run the main script:
-
-```
-python hands_free_drawing.py
-```
 ---
 
 ## 🚀 Usage
@@ -40,7 +30,8 @@ python hands_free_drawing.py
 1. **Launch the application:** Run the Python script:
 
 ```
-python hands_free_drawing.py
+python Air_Canvas.py
+
 ```
 
 2. **Position yourself:** Sit or stand in front of your webcam so your hand is fully visible.
