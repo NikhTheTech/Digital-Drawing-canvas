@@ -23,6 +23,13 @@ cd Digital-Drawing-canvas
 
 pip install opencv-python mediapipe numpy
 ```
+Install dependencies using `requirements.txt`:
+
+```
+pip install -r requirements.txt
+```
+
+---
 ---
 
 ## 🚀 Usage
@@ -80,4 +87,6 @@ Hands-free-Digital-Drawing-Canvas/
 * 🖌️ Add eraser tool
 * 📁 Save drawings as image files
 * 🎥 Improve gesture recognition with additional hand poses
+
+
 
